@@ -1,1 +1,1 @@
-rabbitmq demo
+非springboot 的rabbitmq demo.
